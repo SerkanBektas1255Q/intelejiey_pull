@@ -3,6 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.printf("Hello and welcome!");
+        //gitup calismalari devam ediyor....********************
         //Github 3.gun
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
